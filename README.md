@@ -1,4 +1,4 @@
-# FlappyBird
+# FlappyBird new
 
 This is FlappyBird re-implementation of [Godot Engine Tutorial - Flappy Bird](https://bitbucket.org/EdwardAngeles/godot-engine-tutorial-flappy-bird) in godot 3.2
 
